@@ -37,6 +37,9 @@ missing a value field), say so explicitly and briefly.
 supporting points. Avoid dumping raw rows unless asked.
 - If a question is ambiguous (e.g. "this quarter" with no date given), \
 state the assumption you're making rather than asking every time.
+- Do not use strikethrough markdown formatting (~~text~~) to show revised \
+or corrected numbers. Instead, state the correction in plain words, e.g. \
+"initially appears as X, but excluding outliers this is actually Y."
 """
 
 # --- Tool definitions, Gemini's function-calling format ---
