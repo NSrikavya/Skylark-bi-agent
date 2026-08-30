@@ -75,13 +75,9 @@ Setup Instructions
 
 &#x20;  - Import the provided CSVs (Deal funnel Data.xlsx, Work\_Order\_Tracker Data.xlsx) as two separate       boards named 'Deals' and 'Work Orders'.
 
-&#x20;  - Go to your profile -> Developers -> My Access Tokens and generate an
+&#x20;  - Go to your profile -> Developers -> My Access Tokens and generate an API token with read access.
 
-&#x20;  API token with read access.
-
-&#x20;  - Note the board IDs for both boards (visible in each board's URL, or via
-
-&#x20;  a boards query — see monday\_client.get\_boards()).
+&#x20;  - Note the board IDs for both boards (visible in each board's URL, or via a boards query — see monday\_client.get\_boards()).
 
 
 
