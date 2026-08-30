@@ -6,9 +6,9 @@ answering founder-level questions by querying live monday.com boards
 
 
 
-Live app: https://transcendent-sherbet-198577.netlify.app/
+Live app: https://transcendent-sherbet-198577.netlify.app
 
-Backend API: https://skylark-bi-agent-4v2e.onrender.com/docs
+Backend API: https://skylark-bi-agent-4v2e.onrender.com
 
 
 
